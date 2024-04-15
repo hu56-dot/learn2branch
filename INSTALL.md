@@ -1,3 +1,11 @@
+<!--
+ * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @Date: 2024-04-15 11:06:34
+ * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @LastEditTime: 2024-04-15 16:44:25
+ * @FilePath: \learn2branch\INSTALL.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # SCIP solver
 
 Set-up a desired installation path for SCIP / SoPlex (e.g., `/opt/scip`):
@@ -12,6 +20,7 @@ SoPlex 4.0.1 (free for academic uses)
 https://soplex.zib.de/download.php?fname=soplex-4.0.1.tgz
 
 ```
+
 tar -xzf soplex-4.0.1.tgz
 cd soplex-4.0.1/
 mkdir build
